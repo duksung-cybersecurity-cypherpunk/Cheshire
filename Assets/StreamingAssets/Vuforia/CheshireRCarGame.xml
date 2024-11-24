@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="wizard1" size="5.000000 6.918919" />
+    <ImageTarget name="spider" size="5.000000 4.582031" />
+    <ImageTarget name="s" size="5.000000 5.000000" />
+    <ImageTarget name="h" size="5.000000 5.000000" />
+    <ImageTarget name="r" size="5.000000 5.000000" />
+    <ImageTarget name="g" size="5.000000 5.000000" />
+    <ImageTarget name="img3_owl" size="5.000000 5.000000" />
+    <ImageTarget name="img3_man2" size="5.000000 5.000000" />
+    <ImageTarget name="img3_woman2" size="5.000000 5.000000" />
+    <ImageTarget name="img3_woman1" size="5.000000 5.000000" />
+    <ImageTarget name="img2_4" size="5.000000 5.000000" />
+    <ImageTarget name="img2_3" size="5.000000 5.000000" />
+    <ImageTarget name="img2_2" size="5.000000 5.000000" />
+    <ImageTarget name="img2_1" size="5.000000 5.000000" />
+    <ImageTarget name="img1_1" size="5.000000 5.563380" />
+    <ImageTarget name="img1_2" size="5.000000 5.533869" />
+    <ImageTarget name="img1_3" size="5.000000 5.541619" />
+    <ImageTarget name="img1_4" size="5.000000 5.614236" />
+  </Tracking>
+</QCARConfig>

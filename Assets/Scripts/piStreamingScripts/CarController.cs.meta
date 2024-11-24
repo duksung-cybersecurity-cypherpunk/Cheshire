@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f3cc5493a6174f9da36484298c87392
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - forwardButton: {fileID: 8061245842190673014, guid: a728cbc06c7544850b4b42b091fb2b9c, type: 3}
+  - backwardButton: {fileID: 8359530834285205387, guid: 60b8989a6a41c4be8b05b7785dfdbf90, type: 3}
+  - leftButton: {fileID: 3829141852807919139, guid: e7ff3315d767246b9b2275fafffe098f, type: 3}
+  - rightButton: {fileID: 8273464041983661023, guid: 586d829610a794635971df756bc47f05, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

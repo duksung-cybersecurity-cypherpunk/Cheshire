@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 09e1a6ff6455f4aaf8aa7ff78d393f6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - piStreamMaterial: {fileID: 2100000, guid: c36abc6c2599e404899ff0c3b1b4c642, type: 2}
+  - videoQuad: {fileID: 7866255549289899772, guid: fce74928b8cc3467a8fa88dacafa7a56, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

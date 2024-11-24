@@ -1,0 +1,44 @@
+# Unity 기본 파일
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+.Plastic/
+
+# 빌드 결과물
+*.apk
+*.ipa
+*.obb
+
+# Vuforia 라이센스 키 파일
+Assets/Resources/VuforiaConfiguration.asset
+
+# OS 및 IDE 파일
+.DS_Store
+*.csproj
+*.sln
+*.user
+
+# Visual Studio 파일
+.vscode/
+.idea/
+.vs/
+*.cache
+*.pidb
+
+# 패키지 파일 
+*.unitypackage
+node_modules/
+
+# Assets 내 용량 큰 파일 모음 (스토어 에셋들)
+Assets/ETC/
+
+# 기타
+*.log
+*.tmp
+*.bak 
+
+
